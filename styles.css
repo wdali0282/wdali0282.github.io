@@ -40,12 +40,13 @@ body {
 .topbar nav a:hover {
 
    color: #000;
- 
+   
 }
 
 .topbar .social {
     color: #9f9f9f;
-    float: right
+    float: right;
+   
 }
 
 
@@ -53,7 +54,7 @@ nav a.social {
     left: 0;
     padding-left: 10px;
     padding-right: 10px;
-
+    
 }
 
 
