@@ -1,0 +1,54 @@
+
+
+.numa{
+    margin: 70px 0;
+    padding: 290px 0;
+}
+
+
+.numb{
+    margin: 70px 0;
+}
+
+.main{
+    float: left;
+    background-color: #fff;
+    width: 80%;
+    position: relative;
+  
+  }
+
+  .numon{
+    margin: 70px 0;
+  }
+
+  .topbar {
+
+    position: fixed;
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
+    position: relative;
+
+}
+
+
+
+
+
+.topbar nav a {
+
+    color: #9f9f9f;
+    text-decoration: none;
+    padding: 0 53px;
+    padding: auto;
+}
+
+
+
+.topbar nav a:hover {
+
+    color: #000;
+
+}
+  
